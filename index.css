@@ -1,0 +1,62 @@
+body {
+    background-color: #0D0D0D;
+}
+
+  h1 {
+    font-family: 'Arizonia', cursive;
+    color: white;
+  }
+
+  .menubar {
+      margin: auto;
+      width: 1283px;
+      height: 35px;
+      background: rgba(63, 63, 63, 0.2);
+      border-radius: 5px;
+  }
+
+  li {
+      list-style-type: none;
+      display: inline;
+      font-family: Arizonia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;  
+    color: #FFFFFF;
+    text-transform: uppercase;
+    margin-left: 16px;
+    margin-right: 23px;
+    margin-top: 2px;
+    margin-bottom: 3px;
+  }
+
+  a {
+      text-decoration: none;
+      color: white;
+  }
+
+  a:hover {
+      text-decoration: none;
+      color: crimson;
+  }
+
+  .container {
+    margin: auto;
+    border-radius: 5px;
+    background: rgba(63, 63, 63, 0.2);
+    width: 955px;
+    height: 375px;
+    margin-top: 133px;
+}
+
+h1 {
+      font-family: Arizonia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    letter-spacing: 10px;
+    text-align: center; 
+    color: #FFFFFF;
+    padding-top: 122px;
+}
